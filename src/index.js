@@ -1,6 +1,6 @@
 import './css/styles.css';
 import { debounce } from 'debounce';
-import { fetchPic } from './fetchPPic';
+import { fetchPic } from './fetchPic';
 import Notiflix from 'notiflix';
 
 const DEBOUNCE_DELAY = 300;
